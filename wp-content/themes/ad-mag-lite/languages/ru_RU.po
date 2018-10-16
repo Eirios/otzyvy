@@ -1,0 +1,772 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ad Mag-Lite v10.0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-10-09 16:54+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ ad-mag-lite
+#: 404.php:11
+msgid "404"
+msgstr ""
+
+# @ ad-mag-lite
+#: 404.php:14
+msgid "Page not found..."
+msgstr "Страница не найдена ..."
+
+# @ ad-mag-lite
+#: 404.php:15
+msgid "We're sorry, but we can't find the page you were looking for. It's probably some thing we've done wrong but now we know about it we'll try to fix it. In the meantime, try one of this options:"
+msgstr "﻿Мы сожалеем, но мы не можем найти страницу, которую вы ищете. Попробуйте один из этих вариантов:"
+
+# @ ad-mag-lite
+#: 404.php:17
+msgid "Go back to previous page"
+msgstr "Вернуться на предыдущую страницу"
+
+# @ ad-mag-lite
+#: 404.php:18
+msgid "Go to homepage"
+msgstr "На главную"
+
+# @ ad-mag-lite
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста, не загружайте эту страницу. Спасибо!"
+
+# @ ad-mag-lite
+#: comments.php:12
+msgid "No Comment"
+msgstr "Без Отзывов"
+
+# @ ad-mag-lite
+#: comments.php:12
+msgid "1 Comment"
+msgid_plural "%s Comments"
+msgstr[0] "1 отзыв"
+msgstr[1] "%s отзыва"
+msgstr[2] "%s отзывов"
+
+# @ ad-mag-lite
+#: comments.php:34
+msgid "Previous"
+msgstr "Назад"
+
+# @ ad-mag-lite
+#: comments.php:35
+msgid "Next"
+msgstr "Вперед"
+
+# @ ad-mag-lite
+#: comments.php:74 comments.php:85
+msgid "Pingback"
+msgstr ""
+
+# @ ad-mag-lite
+#: comments.php:81 comments.php:116
+msgid "Edit"
+msgstr "Изменить "
+
+# @ ad-mag-lite
+#: comments.php:150
+msgid "Name *"
+msgstr "Имя *"
+
+# @ ad-mag-lite
+#: comments.php:155
+msgid "Email *"
+msgstr ""
+
+# @ ad-mag-lite
+#: comments.php:160
+msgid "Website"
+msgstr "Веб-сайт"
+
+# @ ad-mag-lite
+#: comments.php:180 comments.php:205
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны <a href=“%s”>войти</a> чтобы оставить отзыв."
+
+# @ ad-mag-lite
+#: comments.php:181
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Вы вошли в систему как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Выйти из этой учётной записи\">Выйти?</a>"
+
+# @ ad-mag-lite
+#: comments.php:182
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr "Ваш электронный адрес не будет опубликован."
+
+# @ ad-mag-lite
+#: comments.php:186
+msgid "POST YOUR COMMENTS"
+msgstr "ОСТАВИТЬ СВОЙ ОТЗЫВ"
+
+# @ ad-mag-lite
+#: comments.php:187
+#, php-format
+msgid "POST YOUR COMMENTS TO %s"
+msgstr "ОСТАВИТЬ СВОЙ ОТЗЫВ ДЛЯ %s"
+
+# @ ad-mag-lite
+#: comments.php:188
+msgid "(Cancel)"
+msgstr "(Отмена)"
+
+# @ ad-mag-lite
+#: comments.php:189
+msgid "Post Comment"
+msgstr "Отправить отзыв"
+
+# @ ad-mag-lite
+#: full-width.php:35 page.php:40
+msgid "Next page"
+msgstr "Следующая страница"
+
+# @ ad-mag-lite
+#: full-width.php:36 page.php:41
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+# @ ad-mag-lite
+#: full-width.php:46 lib/includes/widgets/post/widget-article-list.php:1138
+#: page.php:51 single.php:78
+msgid "Tags"
+msgstr "Метки"
+
+# @ ad-mag-lite
+#: functions.php:25
+msgid "Top Menu"
+msgstr "Верхнее Меню"
+
+# @ ad-mag-lite
+#: functions.php:26
+msgid "Main Menu"
+msgstr "Главное меню"
+
+# @ ad-mag-lite
+#: functions.php:27
+msgid "Bottom Menu"
+msgstr "Нижнее меню"
+
+# @ ad-mag-lite
+#: functions.php:157
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ ad-mag-lite
+#: functions.php:218
+msgid "SEND"
+msgstr "ОТПРАВИТЬ"
+
+# @ ad-mag-lite
+#: functions.php:219
+msgid "SENDING..."
+msgstr "Отправка..."
+
+# @ ad-mag-lite
+#: functions.php:222
+msgid "Please enter your name."
+msgstr "Пожалуйста, введите ваше имя"
+
+# @ ad-mag-lite
+#: functions.php:223 functions.php:231 functions.php:235
+msgid "At least {0} characters required."
+msgstr "Пожалуйста, введите не менее {0} символов."
+
+# @ ad-mag-lite
+#: functions.php:226
+msgid "Please enter your email."
+msgstr "Пожалуйста, введите ваш email."
+
+# @ ad-mag-lite
+#: functions.php:227
+msgid "Please enter a valid email."
+msgstr "Пожалуйста, введите действующий E-mail."
+
+# @ ad-mag-lite
+#: functions.php:230
+msgid "Please enter a comment."
+msgstr "Пожалуйста, оставьте ваш отзыв."
+
+# @ ad-mag-lite
+#: functions.php:234
+msgid "Please enter a message."
+msgstr "Пожалуйста, введите ваше сообщение."
+
+# @ ad-mag-lite
+#: header.php:110
+msgid "Menu"
+msgstr "﻿Меню"
+
+# @ ad-mag-lite
+#: lib/includes/ajax.php:9 lib/includes/ajax.php:64
+msgid "Sorry an error has occurred."
+msgstr "К сожалению, произошла ошибка."
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:6
+msgid "General Settings"
+msgstr "Основные настройки"
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:10
+msgid "Sticky Menu"
+msgstr "Закрепленное меню"
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:19
+msgid "Socials"
+msgstr "Социальные сети"
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:20
+msgid "Facebook"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:29
+msgid "Twitter"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:38
+msgid "Google +"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:47
+msgid "Linkedin"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:56
+msgid "Tumblr"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:65
+msgid "Pinterest"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:74
+msgid "RSS (enter HIDE if want to hide)"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:82
+msgid "Copyright"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:83
+msgid "Your copyright information on footer."
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:91
+msgid "Blog layout"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:95
+msgid "Blog-1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:96
+msgid "Blog-2"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:97
+msgid "Blog-3"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:98
+msgid "Blog-4"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:105
+msgid "Custom css"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/panels/general-settings.php:106
+msgid "Your custom css"
+msgstr "Вставьте здесь свой CSS"
+
+# @ ad-mag-lite
+#: lib/includes/sidebars.php:13
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+# @ ad-mag-lite
+#: lib/includes/sidebars.php:16
+msgid "Center Sidebar"
+msgstr "Центральный сайдбар"
+
+# @ ad-mag-lite
+#: lib/includes/sidebars.php:19
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+# @ ad-mag-lite
+#: lib/includes/sidebars.php:22
+msgid "Footer 1st"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/sidebars.php:25
+msgid "Footer 2nd"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/sidebars.php:28
+msgid "Footer 3rd"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/sidebars.php:31
+msgid "Footer 4th"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/util.php:184
+msgid "Breaking News"
+msgstr "Горячие новости"
+
+# @ ad-mag-lite
+#: lib/includes/util.php:188
+msgid "----SELECT----"
+msgstr "----Выбрать----"
+
+# @ ad-mag-lite
+#: lib/includes/util.php:237
+msgid "Home"
+msgstr "Главная"
+
+# @ ad-mag-lite
+#: lib/includes/util.php:244
+msgid "Blog"
+msgstr "Блог"
+
+# @ ad-mag-lite
+#: lib/includes/util.php:376
+#, php-format
+msgid "<span class=\"%1$s\">Your search for \"%2$s\""
+msgstr "<span class=\"%1$s\">Поиск для \"%2$s\""
+
+# @ ad-mag-lite
+#: lib/includes/util.php:381
+#, php-format
+msgid "Posts created by %1$s"
+msgstr "Опубликовано %1$s"
+
+# @ ad-mag-lite
+#: lib/includes/util.php:385
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/comment/widget-comments.php:12
+msgid "Show recent comments"
+msgstr "Показать последние отзывы"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/comment/widget-comments.php:14
+msgid "(AdMag) Comments"
+msgstr "(Admag) Отзывы"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/comment/widget-comments.php:81
+#: lib/includes/widgets/others/widget-editor.php:85
+#: lib/includes/widgets/others/widget-follow.php:134
+#: lib/includes/widgets/post/widget-article-list.php:1112
+msgid "Title:"
+msgstr "Название:"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/comment/widget-comments.php:86
+msgid "Number of comments:"
+msgstr "Количество отзывов:"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-editor.php:12
+msgid "Show user in role with avatar"
+msgstr "Показать аватар пользователя"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-editor.php:14
+msgid "(AdMag) Editor"
+msgstr "(Admag) Редактор"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-editor.php:65
+msgid "No user in role"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-editor.php:90
+msgid "Role"
+msgstr "Роль"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-editor.php:92
+msgid "Editor"
+msgstr "Редактор"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-editor.php:93
+msgid "Author"
+msgstr "Автор"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-editor.php:94
+msgid "Contributor"
+msgstr "Участник"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-editor.php:95
+msgid "Subscriber"
+msgstr "Подписчик"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-editor.php:100
+msgid "Number to show:"
+msgstr "Число для показа:"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-follow.php:12
+msgid "Display social link"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/others/widget-follow.php:14
+msgid "(AdMag) Follow"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:12
+msgid "Article list widget"
+msgstr "Виджет списка статей"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:14
+msgid "(AdMag) Article List"
+msgstr "(Admag) Список статей"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:158
+msgid "view more"
+msgstr "смотреть больше"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:410
+msgid "view all"
+msgstr "посмотреть все"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:676
+msgid "more view"
+msgstr "Больше смотреть"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1116
+msgid "Categories"
+msgstr "Категории"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1118
+#: lib/includes/widgets/post/widget-article-list.php:1140
+msgid "--Select--"
+msgstr "--Выбрать--"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1131
+msgid "Relation"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1133
+msgid "OR"
+msgstr "ИЛИ"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1134
+msgid "AND"
+msgstr "И"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1154
+msgid "Order"
+msgstr "Порядок"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1157
+msgid "ASC"
+msgstr "Возрастание"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1158
+msgid "DESC"
+msgstr "Убывание"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1171
+msgid "Orderby"
+msgstr "Сортировать по"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1174
+msgid "Date"
+msgstr "Дата"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1175
+msgid "Random"
+msgstr "Случайно"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1176
+msgid "Number of comments"
+msgstr "Количество отзывов"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1189
+msgid "Number of post:"
+msgstr "Количество записей:"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1194
+msgid "Posts per page:"
+msgstr "Сообщений на странице:"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1199
+msgid "Custom excerpt length:"
+msgstr "Длина анонса:"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1204
+msgid "Style:"
+msgstr "Стиль:"
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1208
+msgid "Style 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1209
+msgid "Style 2 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1210
+msgid "Style 3 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1211
+msgid "Style 4 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1212
+msgid "Style 5 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1213
+msgid "Style 6 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1214
+msgid "Style 7 Home 1 "
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1215
+msgid "Style 8 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1216
+msgid "Style 9 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1217
+msgid "Style 10 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1218
+msgid "Style 11 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1219
+msgid "Style 12 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1220
+msgid "Style 13 Home 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1221
+msgid "Style 14 Home 2"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1222
+msgid "Style 15 Home 2"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1223
+msgid "Style 16 Blog 1"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1224
+msgid "Style 16 Home 2"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1225
+msgid "Style 17 Home 3"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1226
+msgid "Style 18 Home 4"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1227
+msgid "Style 19 Home 4"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1228
+msgid "Style 20 Home 4"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1229
+msgid "Style 21 Home 4"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1230
+msgid "Style 22 Home 4"
+msgstr ""
+
+# @ ad-mag-lite
+#: lib/includes/widgets/post/widget-article-list.php:1243
+msgid "View more URL:"
+msgstr ""
+
+# @ ad-mag-lite
+#: module/blog-1.php:32
+msgid "latest <span>articles</span>"
+msgstr "последние <span>отзывы</span>"
+
+# @ ad-mag-lite
+#: module/blog-1.php:34
+msgid "Search"
+msgstr "Поиск"
+
+# @ ad-mag-lite
+#: module/blog-1.php:74 module/blog-2.php:88 module/blog-3.php:81
+#: module/blog-4.php:61
+msgid "Read More"
+msgstr "Подробнее"
+
+# @ ad-mag-lite
+#: module/blog-1.php:79 module/blog-2.php:94 module/blog-3.php:87
+#: module/blog-4.php:67
+msgid "Sorry, no posts matched your criteria."
+msgstr "Извините, нет записей, удовлетворяющиx вашим условиям"
+
+# @ ad-mag-lite
+#: module/blog-2.php:98
+msgid "load more"
+msgstr "загрузить еще"
+
+# @ ad-mag-lite
+#: module/template-about-author.php:12
+msgid "ABOUT THE AUTHOR"
+msgstr "ОБ АВТОРЕ"
+
+# @ ad-mag-lite
+#: module/template-other-posts.php:28
+msgid "PREVIOUS POST"
+msgstr "ПРЕДЫДУЩАЯ ЗАПИСЬ"
+
+# @ ad-mag-lite
+#: module/template-other-posts.php:50
+msgid "NEXT POST"
+msgstr "СЛЕДУЮЩАЯ ЗАПИСЬ"
+
+# @ ad-mag-lite
+#: module/template-page-navigation.php:6
+#, php-format
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Страница %CURRENT_PAGE% из %TOTAL_PAGES%"
+
+# @ ad-mag-lite
+#: module/template-page-navigation.php:9
+msgid "&laquo; First"
+msgstr "&laquo; Вперед"
+
+# @ ad-mag-lite
+#: module/template-page-navigation.php:10
+msgid "Last &raquo;"
+msgstr "Последнее &raquo;"
+
+# @ ad-mag-lite
+#: module/template-page-navigation.php:11
+msgid "&laquo; Prev"
+msgstr "&laquo; Назад"
+
+# @ ad-mag-lite
+#: module/template-page-navigation.php:12
+msgid "Next &raquo;"
+msgstr "Вперед &raquo;"
+
+# @ ad-mag-lite
+#: module/template-page-navigation.php:13
+#: module/template-page-navigation.php:14
+msgid "..."
+msgstr ""
+
+# @ ad-mag-lite
+#: searchform.php:5
+msgid "Search..."
+msgstr "Поиск...."
